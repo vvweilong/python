@@ -9,3 +9,7 @@ python practice
 #### lession07 运算符
 #### lession08 条件运算符 if elif else
 #### lession09 数字类型 类型转换 数学函数
+#### lession10 文件创建 删除 复制操作
+#### lession11 文件 删除 复制操作
+
+
