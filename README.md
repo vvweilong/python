@@ -12,3 +12,8 @@ python practice
 #### lession10 文件创建 删除 复制操作
 #### lession11 文件 读写操作
 #### lession12 异常处理
+#### lession13 自定义类
+#### lession14 类的继承
+#### lession15 开启线程
+#### lession16 自定义线程与线程同步
+
